@@ -1,0 +1,7 @@
+C:\Users\mark.hamner\source\repos\ConsoleAppCSharpDemoInterfaces\ConsoleAppCSharpDemoInterfaces\obj\Debug\ConsoleAppCSharpDemoInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\mark.hamner\source\repos\ConsoleAppCSharpDemoInterfaces\ConsoleAppCSharpDemoInterfaces\bin\Debug\ConsoleAppCSharpDemoInterfaces.exe.config
+C:\Users\mark.hamner\source\repos\ConsoleAppCSharpDemoInterfaces\ConsoleAppCSharpDemoInterfaces\bin\Debug\ConsoleAppCSharpDemoInterfaces.exe
+C:\Users\mark.hamner\source\repos\ConsoleAppCSharpDemoInterfaces\ConsoleAppCSharpDemoInterfaces\bin\Debug\ConsoleAppCSharpDemoInterfaces.pdb
+C:\Users\mark.hamner\source\repos\ConsoleAppCSharpDemoInterfaces\ConsoleAppCSharpDemoInterfaces\obj\Debug\ConsoleAppCSharpDemoInterfaces.exe
+C:\Users\mark.hamner\source\repos\ConsoleAppCSharpDemoInterfaces\ConsoleAppCSharpDemoInterfaces\obj\Debug\ConsoleAppCSharpDemoInterfaces.pdb
+C:\Users\mark.hamner\source\repos\ConsoleAppCSharpDemoInterfaces\ConsoleAppCSharpDemoInterfaces\obj\Debug\ConsoleAppCSharpDemoInterfaces.csprojAssemblyReference.cache
